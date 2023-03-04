@@ -1,0 +1,68 @@
+
+body{
+  background-color: black;
+  color: white;
+}
+.text-color{
+  color: white;
+}
+.green{
+  color: green;
+}
+.text-color:hover{
+  color: rgb(246, 201, 22);
+}
+.hrline{
+  color: white;
+}
+textarea{
+  background-color: rgb(138, 138, 230);
+}
+
+.dark{
+  background-color: black;
+}
+.alert{
+ float: left;
+  text-align: center;
+  /* width: 400px; */
+  display: inline;
+  height: 20px;
+  margin-bottom: 20px;
+  color: #9cdc8c;
+  display: block;
+}
+
+.text-color{
+  margin-right: 50px;
+}
+
+
+#container{
+  width: 30%;
+  height: 1000px;
+  margin:100px auto;
+}
+#textarea{
+  color: black;
+  width:  600px;
+  height: 300px;
+  border: 5px solid black;
+  overflow-y: scroll;
+}
+Button{
+  margin: 10px;
+}
+#custom-switch{
+  font-size: 25px;
+}
+
+.normal-mode{
+  padding-right: 50px;
+  background-color: white;
+  color: black;
+}
+.normal-mode .text-color{
+  background-color: white;
+  color: black;
+}
